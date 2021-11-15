@@ -42,6 +42,10 @@ https://docs.google.com/spreadsheets/d/1F2YjalmIeecwX4Tb0CkXDuo2kZZ8PqftyySTB4uz
 
 https://docs.google.com/presentation/d/1GdsWKwX1UEcr1xT_h_7BgdLrDwKjb4r193GdDP6YwJ8/edit?usp=sharing
 
+Medium
+
+https://medium.com/furuhashilab/%E4%BA%8C%E9%83%8E%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E7%B3%BB-%E6%94%B9%E3%82%81-%E4%BA%8C%E9%83%8E%E7%B3%BB-d9dd44164529
+
 
 
 
