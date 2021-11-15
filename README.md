@@ -14,4 +14,14 @@
 
 © Furuhashi Laboratory/Sota Suzuki, CC BY 4.0
 
+## Introduction
 
+## Method
+
+## Result
+
+## Discussion
+
+##Conclusion
+
+##先行研究
