@@ -36,6 +36,12 @@ https://github.com/furuhashilab/2020gsc_shunsuke-yoda
 
 https://docs.google.com/spreadsheets/d/1F2YjalmIeecwX4Tb0CkXDuo2kZZ8PqftyySTB4uzjCQ/edit?usp=sharing
 
+## 中間報告
+
+スライド
+
+https://docs.google.com/presentation/d/1GdsWKwX1UEcr1xT_h_7BgdLrDwKjb4r193GdDP6YwJ8/edit?usp=sharing
+
 
 
 
