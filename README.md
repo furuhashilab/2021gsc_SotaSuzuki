@@ -31,3 +31,23 @@ https://furuhashilab.github.io/www4yunawatanabe/
 https://github.com/furuhashilab/2020gsc_shunsuke-yoda
 
 ## 参考文献
+
+参考文献リスト：
+
+https://docs.google.com/spreadsheets/d/1F2YjalmIeecwX4Tb0CkXDuo2kZZ8PqftyySTB4uzjCQ/edit?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
