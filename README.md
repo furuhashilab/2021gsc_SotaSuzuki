@@ -77,6 +77,10 @@ https://docs.google.com/spreadsheets/d/1F2YjalmIeecwX4Tb0CkXDuo2kZZ8PqftyySTB4uz
 
 ## レポート
 
+- Medium
+
+- グラレコ
+
 ## 謝辞
 
 ## 中間報告
