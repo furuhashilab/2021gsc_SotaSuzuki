@@ -117,7 +117,11 @@ https://docs.google.com/spreadsheets/d/1F2YjalmIeecwX4Tb0CkXDuo2kZZ8PqftyySTB4uz
 
 - 発表スライド
 
+https://docs.google.com/presentation/d/1ZACPmiuHIaMFY765dK9UGhdXVn9lRvfLKUUAnlpBgdY/edit?usp=sharing
+
 - Medium
+
+https://medium.com/furuhashilab/%E4%BA%8C%E9%83%8E%E7%B3%BBmap-353e693162b8
 
 - グラレコ![saisyugurareco](https://user-images.githubusercontent.com/72395572/152490276-e6802f7f-730b-4597-bb27-7230b0632fce.jpg)
 
