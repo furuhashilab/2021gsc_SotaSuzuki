@@ -79,7 +79,8 @@ https://docs.google.com/spreadsheets/d/1F2YjalmIeecwX4Tb0CkXDuo2kZZ8PqftyySTB4uz
 
 - Medium
 
-- グラレコ
+- グラレコ![saisyugurareco](https://user-images.githubusercontent.com/72395572/152490276-e6802f7f-730b-4597-bb27-7230b0632fce.jpg)
+
 
 ## 謝辞
 
