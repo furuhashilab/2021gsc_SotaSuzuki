@@ -28,27 +28,27 @@
 
 ### OSM上で整理されていなかった神奈川県内の二郎系ラーメンの店舗データを整理した。
 
--店舗データが未入力の店舗を入力
+- 店舗データが未入力の店舗を入力
 
--全店舗の住所を入力
+- 全店舗の住所を入力
 
--全店舗のOpening_hoursを入力
+- 全店舗のOpening_hoursを入力
 
--amenity=fastfoodに統一
+- amenity=fastfoodに統一
 
--cuisine=ramen;jiroに統一
+- cuisine=ramen;jiroに統一
 
--delivery=yes/no
+- delivery=yes/no
 
--takeout=yes/no
+- takeout=yes/no
 
--drive_through=no
+- drive_through=no
 
--outdoor_seating=no
+- outdoor_seating=no
 
--branch=支店の場合入力
+- branch=支店の場合入力
 
--source=survey（筆者が現地調査を行うことができた店舗のみ）
+- source=survey（筆者が現地調査を行うことができた店舗のみ）
 
 まず初めに、二郎系ラーメン店のデータを収集するにあたり、「二郎系ラーメン店」の定義を定める必要があった。特に自らの店を二郎系以外の別種のラーメン店であると語りながら、メニューの一部に二郎系ラーメンを含んでいる場合、OSM上のタギングで
 
