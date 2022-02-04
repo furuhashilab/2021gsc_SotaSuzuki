@@ -89,7 +89,7 @@ OSM上で整理されていなかった神奈川県内の二郎系ラーメン�
 
 2. 複雑な営業時間をしている店舗のOpening_hoursの表記を検討した。中でもラーメン岩佐　下鶴間店の営業時間は11:00 ~ 15:30 / 17:30 ~ 23:00、金土は23:30まで営業、土日祝は中休みなしの通し営業、月曜定休で月曜日が祝日の場合翌日火曜が休みというとても複雑なものがあり、土日祝の表記についてFacebookのOSM Communityにて質問をしたところ回答を得られた。
 
-<img src="https://user-images.githubusercontent.com/72395572/152511055-b334b4ef-c10e-4fea-99ff-015f6b9e1ebe.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/72395572/152511055-b334b4ef-c10e-4fea-99ff-015f6b9e1ebe.jpg" width="40%">
 
 また、 新型コロナウイルスが猛威を振るっている現在、Opening_hoursのタグのほかに新たにOpening_hours:covid19が存在していた。そのため、神奈川県蔓延防止等重点措置の要請に応じて時短営業を実施している店舗の営業時間が普段と異なる点に注意を払い、通常の営業時間をOpening_hoursに、時短の営業時間をOpening_hours:covid19にそれぞれ入力した。
 
