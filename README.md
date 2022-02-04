@@ -68,7 +68,7 @@ OSM上で整理されていなかった神奈川県内の二郎系ラーメン�
 - branch=支店の場合入力
 
 - source=survey（筆者が現地調査を行うことができた店舗のみ）
-- 
+
 ![スクリーンショット (60)](https://user-images.githubusercontent.com/72395572/152494771-cf9e3783-b450-42cf-beb3-1be9afcc1e52.png)
 
 <br>
@@ -103,16 +103,7 @@ https://docs.google.com/spreadsheets/d/1F2YjalmIeecwX4Tb0CkXDuo2kZZ8PqftyySTB4uz
 
 ## 謝辞
 
-## 中間報告
-
-スライド
-
-https://docs.google.com/presentation/d/1GdsWKwX1UEcr1xT_h_7BgdLrDwKjb4r193GdDP6YwJ8/edit?usp=sharing
-
-Medium
-
-https://medium.com/furuhashilab/%E4%BA%8C%E9%83%8E%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E7%B3%BB-%E6%94%B9%E3%82%81-%E4%BA%8C%E9%83%8E%E7%B3%BB-d9dd44164529
-
+本研究を進めるにあたり、青山学院大学地球社会共生学部教授の古橋大地氏をはじめ、先行研究を行った渡邊結南氏、依田峻輔氏、現地調査に協力していただいた柴山息吹氏にこの場をお借りして深く感謝申し上げます。
 
 
 
