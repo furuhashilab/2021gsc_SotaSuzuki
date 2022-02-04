@@ -41,6 +41,7 @@
 
 このほかにも本来とは異なる場所に登録されている店舗など問題が多く見受けられた。
 
+![スクリーンショット (58)](https://user-images.githubusercontent.com/72395572/152494561-6a2a4c1b-4ff1-4de2-9a85-47db7214c2ee.png)
 
 ## Result
 
@@ -67,6 +68,8 @@ OSM上で整理されていなかった神奈川県内の二郎系ラーメン�
 - branch=支店の場合入力
 
 - source=survey（筆者が現地調査を行うことができた店舗のみ）
+- 
+![スクリーンショット (60)](https://user-images.githubusercontent.com/72395572/152494771-cf9e3783-b450-42cf-beb3-1be9afcc1e52.png)
 
 <br>
 <br>
