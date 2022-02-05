@@ -122,7 +122,7 @@ https://docs.google.com/spreadsheets/d/1F2YjalmIeecwX4Tb0CkXDuo2kZZ8PqftyySTB4uz
 
 - 発表スライド
 
-https://docs.google.com/presentation/d/1ZACPmiuHIaMFY765dK9UGhdXVn9lRvfLKUUAnlpBgdY/edit?usp=sharing
+https://docs.google.com/presentation/d/1Fpc3H6RNj_DXUul7x2nRCn0TuOTOvSHY7EveRyEwL1Y/edit?usp=sharing
 
 - Medium
 
